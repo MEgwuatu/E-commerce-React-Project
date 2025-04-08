@@ -18,6 +18,7 @@ export const navlinks = [
     },
     {
         name: 'Contact',
-        title: 'Contact'
+        title: 'Contact',
+        url: '/contact'
     },
 ]
